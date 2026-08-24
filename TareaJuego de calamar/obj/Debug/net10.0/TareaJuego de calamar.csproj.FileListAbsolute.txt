@@ -1,0 +1,15 @@
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\bin\Debug\net10.0\TareaJuego de calamar.exe
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\bin\Debug\net10.0\TareaJuego de calamar.deps.json
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\bin\Debug\net10.0\TareaJuego de calamar.runtimeconfig.json
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\bin\Debug\net10.0\TareaJuego de calamar.dll
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\bin\Debug\net10.0\TareaJuego de calamar.pdb
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.AssemblyInfoInputs.cache
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.AssemblyInfo.cs
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.csproj.CoreCompileInputs.cache
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.sourcelink.json
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.dll
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\refint\TareaJuego de calamar.dll
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.pdb
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\TareaJuego de calamar.genruntimeconfig.cache
+D:\CURSOAI\Damaris Vela\TareaJuego de calamar\obj\Debug\net10.0\ref\TareaJuego de calamar.dll
